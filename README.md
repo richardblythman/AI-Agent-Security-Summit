@@ -6,3 +6,6 @@ framework uses the same tools, model, and system prompt.
 
 ## Architecture Diagram
 ![Invoice Agent Architecture](insecure-invoice-agent.jpg)
+
+## Here are the slides from my talk
+https://docs.google.com/presentation/d/1ETszW07qVMMCYO_MZD16PEKTmp9EV1HP/edit?usp=sharing&ouid=105327696040816402498&rtpof=true&sd=true
